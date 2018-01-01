@@ -1,7 +1,6 @@
 import React from 'react';
 import Search from '../Search/Search';
 import HomesGrid from '../HomesGrid/HomesGrid';
-import styled from 'styled-components';
 import { Wrapper } from '../../../consts/styledConsts';
 
 class Homes extends React.Component {
